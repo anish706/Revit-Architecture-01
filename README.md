@@ -4,3 +4,9 @@ It's basically an advanced version of AutoCAD by Autodesk, focussed on 3D design
 
 3D Building Designs with Revit
  - Building Architecture Design 01 - "Revit Architecture.rvt"
+
+Screen 1: Floor Plan ![Floor Plan](https://github.com/anish706/revit-architecture/raw/master/Screenshots/plan.PNG)
+
+Screen 2: Normal without rendering ![Without Rendering](https://github.com/anish706/revit-architecture/raw/master/Screenshots/normal%20without%20rendering.PNG)
+
+Screen 3: After Rendering ![After Rendering](https://github.com/anish706/revit-architecture/raw/master/Screenshots/rendered%20best.PNG)
